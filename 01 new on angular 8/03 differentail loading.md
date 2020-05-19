@@ -13,7 +13,7 @@ polifill-es2015 para navegadores nuevoes.
 entonces en polyfill hay el type="module" que solo agrega el scrit es2015 en caso lo necesitemos.
 
 ```json
-
+tsConfig.json
 {
   "compileOnSave": ..,
   "compilerOptions": {
